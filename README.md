@@ -1,10 +1,5 @@
 # Pocket Kampus ![Build](https://img.shields.io/badge/build-passing-green.svg)
 
-<p align="center">
-  <a href="#" rel="noopener">
- <img width=500px src="./landing.JPG" alt="Header Image"></a>
-</p>
-
 ![Made With JavaScript](https://img.shields.io/badge/Made%20With-JavaScript-brightgreen.svg)
 ![Made With Node.js](https://img.shields.io/badge/Made%20With-Node.js-green.svg)
 
