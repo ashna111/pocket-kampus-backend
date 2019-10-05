@@ -1,4 +1,4 @@
-# Pocket Kampus ![Build](https://img.shields.io/badge/build-passing-green.svg)
+# Pocket Kampus 
 
 ![Made With JavaScript](https://img.shields.io/badge/Made%20With-JavaScript-brightgreen.svg)
 ![Made With Node.js](https://img.shields.io/badge/Made%20With-Node.js-green.svg)
